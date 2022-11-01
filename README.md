@@ -1,7 +1,7 @@
 ### Hi there!! My name's Brunno, nice to meet ya!!
 
 - 🔭 Desempregrado/Unemployed
-- 🌱 HTML, CSS and JavaScript
+- 🌱 HTML, CSS, JavaScript, ReactJs and TypeScript
 
 <div align="center">
   
