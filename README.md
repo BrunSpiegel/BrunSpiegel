@@ -1,6 +1,6 @@
 ### Hi there!! My name's Brunno, nice to meet ya!!
 
-- 🔭 Desempregado/Unemployed
+- 🔭 A procura de um estágio / Looking for work
 - 🌱 HTML, CSS, JavaScript, ReactJs and TypeScript
 
 <div align="center">
